@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chatbot PTIK C</title>
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #fdfdfd;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      min-height: 100vh;
+      margin: 0;
+      overflow: hidden;
+    }
+
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      width: 100%;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .chat-container {
+      width: 600px;
+      max-width: 90%;
+      height: 75vh;
+      max-height: 90vh;
+      background: #ffffff;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .messages {
+      flex: 1;
+      padding: 15px;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+    }
+
+    .bubble {
+      max-width: 80%;
+      padding: 10px 15px;
+      border-radius: 25px;
+      margin-bottom: 10px;
+      position: relative;
+      line-height: 1.4;
+      word-wrap: break-word;
+    }
+
+    .bot {
+      background: #7a7a7a;
+      color: white;
+      align-self: flex-start;
+      border-bottom-left-radius: 0;
+    }
+
+    .user {
+      background: #000;
+      color: white;
+      align-self: flex-end;
+      border-bottom-right-radius: 0;
+    }
+
+    .input-area {
+      display: flex;
+      padding: 10px;
+      background: #025553;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .input-area input {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      border-radius: 10px;
+      outline: none;
+      font-size: 14px;
+    }
+
+    .input-area button {
+      background: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      padding: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .input-area button:hover {
+      background: #e5e5e5;
+    }
+
+    .input-area svg {
+      width: 18px;
+      height: 18px;
+      fill: #00b3ad;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 12px;
+      color: #888;
+    }
+
+  </style>
+</head>
+<body>
+
+  <main>
+  <header>
+    <h1>Chatbot PTIK C</h1>
+    <p>Selamat datang di chatbot PTIK C! Tanyakan apa saja tentang kelas ini.</p>
+  </header>
+
+  <div class="chat-container">
+    <div class="messages" id="messages"></div>
+    <div class="input-area">
+      <input type="text" id="input" placeholder="Ketik pesan..." />
+      <button id="send">
+        <svg viewBox="0 0 24 24">
+          <path d="M21 3L3 10.53v2.94L10.69 16 14 21l7-18z"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+  </main>
+
+  <footer>
+    <p style="font-size: medium;">2025 Chatbot PTIK C | Dibuat oleh Kelompok 6 PTIK C</p>
+  </footer>
+
+  <main>
+  <script>
+    const input = document.getElementById("input");
+    const messages = document.getElementById("messages");
+    const sendBtn = document.getElementById("send");
+
+    function addMessage(text, sender) {
+      const bubble = document.createElement("div");
+      bubble.className = `bubble ${sender}`;
+      bubble.innerText = text;
+      messages.appendChild(bubble);
+      messages.scrollTop = messages.scrollHeight;
+    }
+
+    async function sendMessage() {
+      const text = input.value.trim();
+      if (!text) return;
+      addMessage(text, "user");
+      input.value = "";
+
+      const res = await fetch("/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: text })
+      });
+
+      const data = await res.json();
+      addMessage(data.reply, "bot");
+    }
+
+    sendBtn.addEventListener("click", sendMessage);
+    input.addEventListener("keypress", e => {
+      if (e.key === "Enter") sendMessage();
+    });
+  </script>
+  </main>
+
+</body>
+</html>
