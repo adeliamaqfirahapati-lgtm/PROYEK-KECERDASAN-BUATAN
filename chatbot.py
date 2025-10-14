@@ -64,6 +64,44 @@ knowledge_base = {
     "siapa dosen pengampu psikologi pendidikan": "Dwi Rezky Anandari Sulaiman, S.Psi., M.Si.",
     "siapa dosen mitra psikologi pendidikan": "Ainun Nida Rifqi, SPsi, MPSi.T.",
     "ruangan dan jadwal psikologi pendidikan": "PTIK A = Ruangannya di Lab Animasi pada hari Kamis pukul 15.45 sampai 17.30 \nPTIK B = Ruangannya di C3-P1 pada hari Jum'at pukul 10.05 sampai 11.40",
+
+    #Kalender Akademik
+    "kapan awal perkuliahan": "Awal perkuliahan semester ganjil dimulai sekitar awal September.",
+    "kapan libur semester": "Libur semester biasanya berlangsung dua minggu setelah ujian akhir semester.",
+
+    #Motivasi dan Kata-Kata Positif
+    "beri saya motivasi belajar": "Jangan takut gagal, karena setiap kesalahan adalah bagian dari proses menuju sukses!",
+    "kata kata semangat": "Semangat! Setiap langkah kecil hari ini adalah investasi besar untuk masa depanmu 💪",
+    "motivasi hari ini": "Hari ini mungkin terasa berat, tapi ingat, kamu sudah melewati banyak hal hebat sebelumnya.",
+    "motivasi kuliah": "Kuliah itu bukan tentang siapa yang paling cepat, tapi siapa yang paling konsisten bertahan.",
+    "motivasi saat malas": "Kalau kamu lelah, istirahatlah — tapi jangan berhenti. Tujuanmu masih menunggu di depan!",
+    "motivasi menghadapi ujian": "Belajar itu bukan untuk nilai, tapi untuk masa depan. Nilai bisa dikejar, tapi ilmu harus dikuasai.",
+    "motivasi saat gagal": "Gagal bukan akhir, tapi tanda bahwa kamu sedang mencoba sesuatu yang berarti.",
+    "motivasi untuk sukses": "Kesuksesan bukan soal keberuntungan, tapi soal kerja keras yang tidak pernah menyerah.",
+    "motivasi pagi hari": "Bangunlah dengan tekad, tidur dengan rasa puas. Jadikan hari ini lebih baik dari kemarin.",
+    "motivasi hidup": "Hidup tidak selalu mudah, tapi selalu ada alasan untuk terus berjuang.",
+    "motivasi untuk programmer": "Debug hidupmu seperti kamu debug kodingan — sabar, fokus, dan jangan menyerah sampai beres.",
+    "motivasi saat stres": "Tarik napas... tenangkan pikiran. Semua masalah punya jalan keluar asal kamu mau berusaha.",
+    "motivasi untuk teman": "Kamu hebat, walau kadang lupa melihat seberapa jauh kamu sudah melangkah.",
+    "kata kata inspirasi": "Jangan hanya bermimpi besar, tapi juga bergerak besar untuk mencapainya.",
+    "motivasi singkat": "Fokus, sabar, dan konsisten — tiga kunci kecil menuju hal besar.",
+    "motivasi islami": "Jika Allah belum memberi yang kamu minta, mungkin Dia sedang menyiapkan yang lebih baik.",
+    "motivasi cinta": "Cinta terbaik adalah yang membuatmu tumbuh, bukan yang membuatmu runtuh.",
+    "motivasi malam hari": "Tidurlah dengan pikiran damai, karena besok adalah kesempatan baru untuk mencoba lagi.",
+    "motivasi kerja keras": "Kerja keras memang melelahkan, tapi hasilnya membuatmu bangga seumur hidup.",
+    "motivasi kesabaran": "Bunga tidak mekar dalam semalam — begitu juga kesuksesanmu. Bersabarlah, waktumu akan tiba.",
+    "motivasi menggapai mimpi": "Mimpi besar butuh usaha besar. Jangan biarkan takut menghentikan langkahmu.",
+    "motivasi hidup sederhana": "Bahagia itu sederhana — cukup syukuri yang ada dan terus perbaiki diri.",
+    "motivasi jadi guru": "Guru bukan hanya mengajar, tapi juga menyalakan semangat dalam jiwa anak bangsa.",
+    "motivasi menghadapi tugas": "Tugas boleh banyak, tapi ingat — satu per satu juga akhirnya selesai.",
+    "motivasi saat menyerah": "Kalau kamu menyerah sekarang, kamu tak akan tahu seberapa dekat kamu dengan keberhasilan.",
+    "motivasi agar produktif": "Sedikit demi sedikit, lama-lama menjadi bukit. Jangan remehkan kemajuan kecil.",
+    "motivasi bahasa Inggris": "Keep going. Even slow progress is better than no progress at all.",
+
+    #Tugas
+    "Daftar Tugas": "Tugas Artikel Inovasi Teknologi, Tugas Artikel Keamanan Komputer, Laprak Struktur Data, Debat Strategi Pembelajaran",
+    "Tugas": "Tugas Artikel Inovasi Teknologi, Tugas Artikel Keamanan Komputer, Laprak Struktur Data, Debat Strategi Pembelajaran",
+
 }
 
 # === FUNGSI UNTUK MENEMUKAN JAWABAN TERDEKAT ===
