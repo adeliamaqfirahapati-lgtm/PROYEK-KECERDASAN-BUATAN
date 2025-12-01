@@ -26,54 +26,92 @@ knowledge_base = {
     "siapa dosen pengampu keamanan komputer": "Fadhlirrahman Baso, S. Pd., M, Pd.",
     "siapa dosen mitra keamanan komputer": "Aulyah Zakilah Ifani, M, Kom.",
     "ruangan dan jadwal keamanan komputer": "Ruangannya di C2-P4 pada hari senin pukul 07.30 sampai 10.05",
+    "apa itu enkripsi": "Enkripsi adalah proses mengubah data menjadi kode rahasia agar tidak bisa dibaca pihak tidak berwenang.",
+    "apa itu firewall": "Firewall adalah sistem keamanan jaringan yang memantau dan mengontrol lalu lintas data masuk dan keluar berdasarkan aturan keamanan yang telah ditetapkan.",
+    "apa itu malware": "Malware adalah perangkat lunak berbahaya yang dirancang untuk merusak, mengganggu, atau mendapatkan akses tidak sah ke sistem komputer.",
+    "bagaimana cara melindungi komputer dari serangan": "Beberapa cara melindungi komputer dari serangan meliputi penggunaan antivirus, memperbarui perangkat lunak secara rutin, menghindari tautan mencurigakan, dan menggunakan firewall.",
+    "apa itu phishing": "Phishing adalah metode penipuan di mana pelaku mencoba mendapatkan informasi sensitif seperti kata sandi atau data kartu kredit dengan menyamar sebagai entitas tepercaya dalam komunikasi elektronik.",
 
     #Profesi Kependidikan
     "apa itu profesi kependidikan": "Profesi Kependidikan merupakan kajian tentang peran, etika, kompetensi, dan tanggung jawab pendidik dalam dunia kerja pendidikan.",
     "siapa dosen pengampu profesi kependidikan": "Prof. Dr. H. Syahrul, M. Pd.",
     "siapa dosen mitra profesi kependidikan": "Mardiana, S. Pd., M. Pd.",
     "ruangan dan jadwal profesi kependidikan": "Ruangannya di AE 107 pada hari senin pukul 15.45 sampai 17.30",
+    "apa itu kode etik guru": "Aturan moral dan profesional yang harus diikuti pendidik dalam menjalankan tugas.",
+    "apa itu kompetensi profesional guru": "Kemampuan dan keterampilan yang harus dimiliki guru untuk melaksanakan tugasnya secara efektif.",
+    "apa peran guru dalam pendidikan": "Guru berperan sebagai fasilitator, motivator, dan pembimbing dalam proses pembelajaran.",
+    "apa tantangan profesi kependidikan": "Tantangan meliputi perubahan kurikulum, teknologi, dan kebutuhan siswa yang beragam.",
 
     #Inovasi Teknologi
     "apa itu inovasi teknologi": "Inovasi Teknologi merupakan pembahasan mengenai perkembangan teknologi baru dan penerapannya secara kreatif untuk memecahkan masalah.",
     "siapa dosen pengampu inovasi teknologi": "Prof. Dr. Ir. H. Bakhrani A. Rauf, M. T.",
     "siapa dosen mitra inovasi teknologi": "M. Miftach Fakhri, S. Kom., M. Pd.",
     "ruangan dan jadwal inovasi teknologi": "Ruangannya di Lab ICT 3 pada hari selasa pukul 09.15 sampai 10.55",
+    "apa itu teknologi blockchain": "Teknologi Blockchain adalah sistem pencatatan data yang terdesentralisasi dan aman, sering digunakan dalam mata uang digital seperti Bitcoin.",
+    "apa itu internet of things": "Internet of Things (IoT) adalah konsep menghubungkan perangkat fisik ke internet untuk saling bertukar data dan informasi.",
+    "apa itu kecerdasan buatan dalam inovasi teknologi": "Kecerdasan Buatan (AI) dalam inovasi teknologi merujuk pada penggunaan algoritma dan sistem yang dapat belajar dan beradaptasi untuk meningkatkan efisiensi dan efektivitas teknologi.",
+    "bagaimana inovasi teknologi mempengaruhi kehidupan sehari hari": "Inovasi teknologi mempengaruhi kehidupan sehari-hari dengan meningkatkan kemudahan akses informasi, komunikasi, transportasi, dan berbagai aspek lainnya melalui perangkat digital dan aplikasi cerdas.",
 
     #Strategi Pembelajaran
     "apa itu strategi pembelajaran": "Strategi Pembelajaran merupakan cara merancang dan menerapkan metode mengajar yang efektif sesuai tujuan dan karakteristik peserta didik.",
     "siapa dosen pengampu strategi pembelajaran": "Prof Dr.Muhammad Rais, S.Pd., M.P., M.T.",
     "siapa dosen mitra strategi pembelajaran": "Shabrina Syutha Dewi, S.Pd., M.Pd.",
     "ruangan dan jadwal strategi pembelajaran":"Ruangannya di C2-P5 pada hari selasa pukul 11.00 sampai 14.00",
+    "apa itu metode pembelajaran aktif": "Metode pembelajaran aktif adalah pendekatan yang melibatkan siswa secara langsung dalam proses belajar melalui diskusi, proyek, atau kegiatan praktis.",
+    "apa itu pembelajaran berbasis proyek": "Pembelajaran berbasis proyek adalah metode di mana siswa belajar melalui pengerjaan proyek nyata yang relevan dengan materi pelajaran.",
+    "apa itu pembelajaran kolaboratif": "Pembelajaran kolaboratif adalah pendekatan di mana siswa bekerja sama dalam kelompok untuk mencapai tujuan pembelajaran bersama.",
+    "bagaimana cara mengembangkan strategi pembelajaran yang efektif": "Mengembangkan strategi pembelajaran yang efektif melibatkan pemahaman karakteristik siswa, tujuan pembelajaran, serta pemilihan metode dan media yang sesuai.",
 
     #Kecerdasan Buatan
     "apa itu kecerdasan buatan": "Kecerdasan Buatan merupakan studi tentang sistem cerdas yang dapat berpikir, belajar, dan mengambil keputusan layaknya manusia.",
     "siapa dosen pengampu kecerdasan buatan": "Dr. Eng. Muhammad Ayat Hidayat, S.T., M.T",
     "siapa dosen mitra kecerdasan buatan": "Dr. Imran, S.Kom., M.Pd",
     "ruangan dan jadwal kecerdasan buatan": "Ruangannya di AE 105 pada hari Selasa pukul 14.50 sampai 17.30",
+    "apa itu machine learning": "Machine Learning adalah cabang dari kecerdasan buatan yang memungkinkan sistem belajar dari data dan meningkatkan kinerjanya tanpa diprogram secara eksplisit.",
+    "apa itu neural networks": "Neural Networks adalah model komputasi yang terinspirasi dari struktur otak manusia, digunakan dalam machine learning untuk mengenali pola dan membuat prediksi.",
+    "apa itu natural language processing": "Natural Language Processing (NLP) adalah cabang dari kecerdasan buatan yang berfokus pada interaksi antara komputer dan bahasa manusia.",
+    "bagaimana kecerdasan buatan digunakan dalam kehidupan sehari hari": "Kecerdasan buatan digunakan dalam berbagai aplikasi sehari-hari seperti asisten virtual, rekomendasi produk, pengenalan wajah, dan kendaraan otonom.",
+    
 
     #Jaringan Komputer
     "apa itu jaringan komputer": "Jaringan Komputer merupakan pembahasan mengenai cara menghubungkan komputer agar dapat saling bertukar data dan sumber daya.",
     "siapa dosen pengampu jaringan komputer": "Dr. Ir. Muliadi, S.Pd., MT.",
     "siapa dosen mitra jaringan komputer": "Ir. Rahmaniar, S.Kom., M.Kom.",
     "ruangan dan jadwal jaringan komputer": "Ruangannya di Lab Jaringan pada hari Rabu pukul 10.05 sampai 12.40",
+    "apa itu protokol jaringan": "Protokol jaringan adalah aturan dan standar yang mengatur komunikasi antar perangkat dalam jaringan komputer.",
+    "apa itu model osi": "Model OSI (Open Systems Interconnection) adalah kerangka konseptual yang membagi fungsi jaringan komputer menjadi tujuh lapisan.",
+    "apa itu alamat ip": "Alamat IP (Internet Protocol) adalah serangkaian angka unik yang digunakan untuk mengidentifikasi perangkat dalam jaringan komputer.",
+    "bagaimana cara kerja jaringan komputer": "Jaringan komputer bekerja dengan menghubungkan perangkat melalui media fisik atau nirkabel, memungkinkan pertukaran data menggunakan protokol komunikasi yang telah ditetapkan.",
 
     #Pemrograman Web
     "apa itu pemrograman web": "Pemrograman Web merupakan proses membangun aplikasi atau situs web interaktif menggunakan berbagai bahasa pemrograman.",
     "siapa dosen pengampu pemrograman web": "Dr. Ir. Mustari S. Lamada, S.Pd., M.T.",
     "siapa dosen mitra pemrograman web": "Alifya NFH, S.Pd., M.Pd.",
     "ruangan dan jadwal pemrograman web": "Ruangannya di AE 102 pada hari Kamis pukul 07.30 sampai 10.05",
+    "apa itu html": "HTML (HyperText Markup Language) adalah bahasa standar untuk membuat dan menyusun halaman web.",
+    "apa itu css": "CSS (Cascading Style Sheets) adalah bahasa yang digunakan untuk mengatur tampilan dan format halaman web.",
+    "apa itu javascript": "JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif dan dinamis.",
+    "bagaimana cara membuat situs web": "Membuat situs web melibatkan penggunaan HTML untuk struktur, CSS untuk desain, dan JavaScript untuk interaktivitas.",
 
     #Struktur Data
     "apa itu struktur data": "Struktur Data merupakan cara mengorganisasikan dan menyimpan data agar dapat diakses serta diolah secara efisien.",
     "siapa dosen pengampu struktur data": "Alifya NFH, S.Pd., M.Pd",
     "siapa dosen mitra struktur data": "Muh. Albar, S.Pd., M.Pd.",
     "ruangan dan jadwal struktur data": "Ruangannya di AE 107 pada hari Jumat pukul 14.50 sampai 17.30",
+    "apa itu array": "Array adalah struktur data yang menyimpan elemen-elemen data dalam urutan tertentu dan dapat diakses menggunakan indeks.",
+    "apa itu linked list": "Linked List adalah struktur data yang terdiri dari node-node yang saling terhubung, di mana setiap node menyimpan data dan referensi ke node berikutnya.",
+    "apa itu stack": "Stack adalah struktur data yang mengikuti prinsip LIFO (Last In, First Out), di mana elemen terakhir yang ditambahkan adalah yang pertama dihapus.",
+    "bagaimana cara memilih struktur data yang tepat": "Memilih struktur data yang tepat tergantung pada kebutuhan aplikasi, seperti kecepatan akses, penggunaan memori, dan jenis operasi yang sering dilakukan.",
 
     #Psikologi Pendidikan
     "apa itu psikologi pendidikan": "Psikologi Pendidikan merupakan kajian tentang aspek psikologis dalam proses belajar mengajar, termasuk perkembangan dan motivasi peserta didik.",
     "siapa dosen pengampu psikologi pendidikan": "Dwi Rezky Anandari Sulaiman, S.Psi., M.Si.",
     "siapa dosen mitra psikologi pendidikan": "Ainun Nida Rifqi, SPsi, MPSi.T.",
     "ruangan dan jadwal psikologi pendidikan": "PTIK A = Ruangannya di Lab Animasi pada hari Kamis pukul 15.45 sampai 17.30 \nPTIK B = Ruangannya di C3-P1 pada hari Jum'at pukul 10.05 sampai 11.40",
+    "apa itu motivasi belajar": "Motivasi belajar adalah dorongan internal atau eksternal yang mempengaruhi seseorang untuk belajar dan mencapai tujuan akademiknya.",
+    "apa itu gaya belajar": "Gaya belajar adalah cara individu dalam memproses dan memahami informasi, seperti visual, auditori, atau kinestetik.",
+    "apa itu perkembangan kognitif": "Perkembangan kognitif adalah proses perubahan dalam kemampuan berpikir, memahami, dan memecahkan masalah seiring bertambahnya usia.",
+    "bagaimana psikologi pendidikan membantu proses belajar mengajar": "Psikologi pendidikan membantu dengan memberikan wawasan tentang cara belajar siswa, motivasi, dan strategi pengajaran yang efektif untuk meningkatkan hasil belajar.",
 
     #Kalender Akademik
     "kapan awal perkuliahan": "Awal perkuliahan semester ganjil dimulai sekitar awal September.",
