@@ -69,8 +69,7 @@ knowledge_base = {
     "kapan awal perkuliahan": "Awal perkuliahan semester ganjil dimulai sekitar awal September.",
     "kapan libur semester": "Libur semester biasanya berlangsung dua minggu setelah ujian akhir semester.",
 
-        #Administrasi Siswa
-
+    #Administrasi Siswa
     # Cara izin / absensi
     "cara izin": "Format izin tidak masuk sekolah:\nAssalamu’alaikum Bapak/Ibu [Nama Wali Kelas], saya [Nama Siswa] kelas [Kelas] ingin izin [sakit/ada keperluan] pada hari [hari, tanggal]. Terima kasih.",
     "cara izin tidak masuk": "Untuk izin tidak masuk, kirim pesan ke wali kelas dengan format: Nama - Kelas - Alasan izin - Hari/tanggal.",
@@ -123,6 +122,52 @@ knowledge_base = {
     #Tugas
     "Daftar Tugas": "Tugas Artikel Inovasi Teknologi, Tugas Artikel Keamanan Komputer, Laprak Struktur Data, Debat Strategi Pembelajaran",
     "Tugas": "Tugas Artikel Inovasi Teknologi, Tugas Artikel Keamanan Komputer, Laprak Struktur Data, Debat Strategi Pembelajaran",
+
+    # Layanan Konseling Mahasiswa
+    "apa itu layanan konseling": "Layanan konseling kampus membantu mahasiswa mengatasi masalah pribadi, akademik, sosial, maupun kesehatan mental.",
+    "cara menghubungi konselor": "Mahasiswa dapat menghubungi konselor melalui Pusat Layanan Konseling Kampus atau booking melalui website resmi.",
+    "jadwal konselor": "Layanan konseling biasanya tersedia Senin–Jumat pukul 08.00 sampai 15.00.",
+    "layanan konseling bantu apa": "Layanan konseling bisa membantu masalah akademik, stres kuliah, motivasi, hubungan sosial, hingga konseling karier.",
+    "dimana ruang konseling": "Ruang konseling biasanya berada di Gedung Layanan Kemahasiswaan kampus.",
+
+    # Variasi tambahan konseling mahasiswa
+    "bagaimana cara konsultasi ke konselor": "Kamu bisa daftar melalui website kampus atau datang langsung ke Pusat Layanan Konseling.",
+    "kapan bisa ketemu konselor kampus": "Biasanya tersedia pada jam kerja kampus, Senin–Jumat 08.00–15.00.",
+
+    # Layanan Perpustakaan Mahasiswa
+    "cara pinjam buku perpustakaan": "Gunakan kartu mahasiswa untuk meminjam buku di perpustakaan, atau lakukan peminjaman lewat sistem online jika tersedia.",
+    "jam buka perpustakaan": "Perpustakaan kampus buka Senin–Jumat pukul 08.00–17.00.",
+    "cara perpanjang buku perpustakaan": "Kamu bisa memperpanjang masa pinjam melalui aplikasi perpustakaan atau datang langsung ke petugas.",
+    "aturan peminjaman buku": "Mahasiswa biasanya boleh meminjam 3–5 buku selama 1–2 minggu tergantung kebijakan kampus.",
+
+    # Variasi perpustakaan
+    "jam buka perpus": "Perpustakaan buka setiap hari kerja pukul 08.00–17.00.",
+    "bagaimana cara meminjam buku": "Cukup pilih buku lalu bawa ke petugas untuk diproses menggunakan kartu mahasiswa.",
+
+    # Layanan IT Kampus
+    "cara reset akun e learning": "Silakan hubungi Helpdesk IT kampus atau lapor melalui email resmi untuk reset password e-learning.",
+    "lupa password e learning": "Kamu bisa minta reset password melalui pusat layanan IT kampus.",
+    "akun e learning error": "Segera lapor ke IT Support kampus melalui email atau loket layanan.",
+    "cara akses wifi kampus": "Gunakan akun SSO mahasiswa untuk login ke jaringan WiFi kampus.",
+
+    # Keuangan Kampus
+    "bagaimana cara bayar spp": "SPP dapat dibayar melalui virtual account kampus, mobile banking, atau loket keuangan.",
+    "dimana bayar spp": "Semua pembayaran dilakukan melalui virtual account atau loket keuangan universitas.",
+    "kapan jatuh tempo spp": "Biasanya setiap awal semester sebelum KRS dibuka.",
+    "siapa yang mengurus keuangan kampus": "Bagian Biro Keuangan bertanggung jawab mengelola pembayaran dan administrasi finansial mahasiswa.",
+
+    # Administrasi Akademik
+    "cara cetak transkrip nilai": "Transkrip nilai bisa dicetak melalui portal akademik atau diminta di bagian akademik.",
+    "cara urus surat aktif kuliah": "Ajukan permintaan melalui portal akademik atau datang ke bagian administrasi akademik.",
+    "cara urus krs": "KRS dilakukan melalui Sistem Informasi Akademik (SIA) kampus saat masa pengisian dibuka.",
+    "dimana ambil ijazah": "Ijazah diambil di bagian akademik setelah semua persyaratan administrasi terpenuhi.",
+    "cara perpanjang cuti kuliah": "Ajukan permohonan cuti melalui bagian akademik sesuai prosedur kampus.",
+
+    # Kegiatan Kemahasiswaan
+    "apa itu organisasi mahasiswa": "Organisasi mahasiswa adalah lembaga kemahasiswaan untuk mengembangkan minat, bakat, dan kepemimpinan.",
+    "cara ikut ukm": "Mahasiswa dapat mendaftar UKM saat open recruitment yang diadakan setiap awal semester.",
+    "kegiatan apa saja di kampus": "Ada seminar, workshop, UKM, lomba, pelatihan soft skill, dan kegiatan sosial.",
+    "jadwal kegiatan kampus": "Biasanya diumumkan melalui website kampus, grup mahasiswa, atau media sosial resmi.",
 
 }
 
