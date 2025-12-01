@@ -4,6 +4,7 @@ import difflib
 # === BASIS PENGETAHUAN (Knowledge Base) ===
 knowledge_base = {
     #Pertanyaan umum lainnya
+    "Kamu ini apa": "Saya Chatbot PTIK C, siap membantu menjawab pertanyaan seputar kelas dan materi perkuliahan.",
     "halo": "Halo! Ada yang bisa saya bantu?",
     "hi": "Hai juga! Apa kabar?",
     "kabar baik": "Senang mendengarnya! Ada yang ingin kamu tanyakan?",
