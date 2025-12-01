@@ -69,26 +69,24 @@ knowledge_base = {
     "kapan awal perkuliahan": "Awal perkuliahan semester ganjil dimulai sekitar awal September.",
     "kapan libur semester": "Libur semester biasanya berlangsung dua minggu setelah ujian akhir semester.",
 
-    #Administrasi Siswa
-    # Cara izin / absensi
-    "cara izin": "Format izin tidak masuk sekolah:\nAssalamu’alaikum Bapak/Ibu [Nama Wali Kelas], saya [Nama Siswa] kelas [Kelas] ingin izin [sakit/ada keperluan] pada hari [hari, tanggal]. Terima kasih.",
-    "cara izin tidak masuk": "Untuk izin tidak masuk, kirim pesan ke wali kelas dengan format: Nama - Kelas - Alasan izin - Hari/tanggal.",
-    "izin sekolah": "Untuk izin sekolah, hubungi wali kelas sebelum jam pelajaran dimulai.",
+    #Administrasi Mahasiswa 
+    # Izin tidak hadir kuliah
+    "izin tidak hadir": "Format izin tidak hadir kuliah:\nAssalamu’alaikum Bapak/Ibu [Nama Dosen]. Saya [Nama], mahasiswa PTIK C. Mohon izin tidak bisa hadir pada perkuliahan [mata kuliah] tanggal [tanggal] karena [alasan]. Terima kasih.",
+    "cara izin kuliah": "Untuk izin kuliah, kirim pesan ke dosen pengampu dengan format: Nama - PTIK C - Mata Kuliah - Alasan - Tanggal.",
+    
+    # Izin terlambat
+    "izin terlambat": "Jika terlambat masuk kuliah, sampaikan ke dosen pengampu: 'Assalamu’alaikum Bapak/Ibu, saya [Nama] PTIK C, mohon izin terlambat hadir karena [alasan]'.",
 
-    # Izin sakit
-    "izin sakit": "Prosedur izin sakit:\n1. Hubungi wali kelas sebelum pelajaran dimulai.\n2. Jika sakit lebih dari 2 hari, disarankan membawa surat dokter.\n3. Saat masuk kembali, lapor ke wali kelas.",
+    # Izin keluar kelas
+    "izin keluar kelas": "Jika ingin izin keluar saat perkuliahan, sampaikan langsung ke dosen yang sedang mengajar atau chat pribadi dengan alasan yang jelas. Lalu lakukan konfirmasi kepada ketua tingkat setelah izin",
+    "izin pulang kuliah": "Untuk pulang di tengah perkuliahan, izin dulu ke dosen pengampu. Lalu lakukan konfirmasi kepada ketua tingkat setelah izin.",
 
-    # Izin keluar atau pulang
-    "izin keluar": "Izin keluar di jam pelajaran:\n1. Minta izin kepada guru yang mengajar.\n2. Pergi ke BK/TU untuk konfirmasi.\n3. Orang tua akan dihubungi sekolah.\n4. Boleh pulang setelah izin resmi.",
-    "izin pulang": "Jika ingin pulang saat pelajaran, minta izin guru mapel lalu lakukan konfirmasi di BK/TU.",
+    # Surat izin resmi
+    "surat izin kuliah": "Format surat izin kuliah:\n\n[Kota], [Tanggal]\nKepada Yth. Bapak/Ibu [Nama Dosen]\nProgram Studi PTIK\nUNM\n\nSaya [Nama], NIM [NIM], kelas PTIK C, memohon izin tidak mengikuti perkuliahan [mata kuliah] pada [tanggal] karena [alasan].\nHormat saya,\n[Nama].",
 
-    # Format surat izin orang tua
-    "format surat izin": "Contoh surat izin:\n\n[Kota], [Tanggal]\nKepada Yth. Wali Kelas [Kelas]\nDi Tempat\n\nDengan hormat,\nSaya orang tua dari [Nama Siswa] kelas [Kelas] memohon izin agar anak saya tidak dapat mengikuti pelajaran pada hari [hari, tanggal] karena [alasan].\n\nHormat saya,\n(Nama Orang Tua)",
-    "contoh surat izin": "Contoh surat izin singkat:\n[Kota], [Tanggal]\nAnak: [Nama] Kelas: [Kelas]\nMohon izin karena [alasan].\nHormat saya,\n(Nama Orang Tua)",
-
-    # Rekap Absensi
-    "rekap kehadiran": "Saat ini chatbot belum terhubung ke sistem absensi. Untuk melihat rekap kehadiran, silakan hubungi wali kelas atau bagian TU.",
-    "lihat absensi": "Absensi lengkap dapat dicek melalui wali kelas atau Tata Usaha.",
+    # Rekap kehadiran kuliah
+    "rekap presensi": "Untuk melihat rekap presensi kuliah, silakan buka SYAM-OK UNM. Jika presensi tidak tercatat atau bermasalah, ketua tingkat atau sekretaris kelas PTIK C.",
+    "cek absensi kuliah": "Untuk cek absensi kuliah, lihat pada laman SYAM-OK UNM. Jika presensi tidak tercatat atau bermasalah, ketua tingkat atau sekretaris kelas PTIK C.",
 
     #Motivasi dan Kata-Kata Positif
     "beri saya motivasi belajar": "Jangan takut gagal, karena setiap kesalahan adalah bagian dari proses menuju sukses!",
