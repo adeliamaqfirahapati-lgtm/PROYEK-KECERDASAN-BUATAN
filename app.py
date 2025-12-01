@@ -1,7 +1,8 @@
 from flask import Flask, render_template, request, jsonify
 from chatbot import get_bot_response
+import os
 
-app = Flask(__name__)
+app = Flask(_name_)
 
 @app.route("/")
 def index():
@@ -13,5 +14,6 @@ def chat():
     bot_reply = get_bot_response(user_message)
     return jsonify({"reply": bot_reply})
 
-if __name__ == "__main__":
-    app.run(debug=True)
+if _name_ == "_main_":
+    port = int(os.environ.get("PORT", 5000)) 
+    app.run(host="0.0.0.0", port=port)
