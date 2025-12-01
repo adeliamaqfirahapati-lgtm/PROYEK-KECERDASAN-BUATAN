@@ -69,6 +69,28 @@ knowledge_base = {
     "kapan awal perkuliahan": "Awal perkuliahan semester ganjil dimulai sekitar awal September.",
     "kapan libur semester": "Libur semester biasanya berlangsung dua minggu setelah ujian akhir semester.",
 
+        #Administrasi Siswa
+
+    # Cara izin / absensi
+    "cara izin": "Format izin tidak masuk sekolah:\nAssalamu’alaikum Bapak/Ibu [Nama Wali Kelas], saya [Nama Siswa] kelas [Kelas] ingin izin [sakit/ada keperluan] pada hari [hari, tanggal]. Terima kasih.",
+    "cara izin tidak masuk": "Untuk izin tidak masuk, kirim pesan ke wali kelas dengan format: Nama - Kelas - Alasan izin - Hari/tanggal.",
+    "izin sekolah": "Untuk izin sekolah, hubungi wali kelas sebelum jam pelajaran dimulai.",
+
+    # Izin sakit
+    "izin sakit": "Prosedur izin sakit:\n1. Hubungi wali kelas sebelum pelajaran dimulai.\n2. Jika sakit lebih dari 2 hari, disarankan membawa surat dokter.\n3. Saat masuk kembali, lapor ke wali kelas.",
+
+    # Izin keluar atau pulang
+    "izin keluar": "Izin keluar di jam pelajaran:\n1. Minta izin kepada guru yang mengajar.\n2. Pergi ke BK/TU untuk konfirmasi.\n3. Orang tua akan dihubungi sekolah.\n4. Boleh pulang setelah izin resmi.",
+    "izin pulang": "Jika ingin pulang saat pelajaran, minta izin guru mapel lalu lakukan konfirmasi di BK/TU.",
+
+    # Format surat izin orang tua
+    "format surat izin": "Contoh surat izin:\n\n[Kota], [Tanggal]\nKepada Yth. Wali Kelas [Kelas]\nDi Tempat\n\nDengan hormat,\nSaya orang tua dari [Nama Siswa] kelas [Kelas] memohon izin agar anak saya tidak dapat mengikuti pelajaran pada hari [hari, tanggal] karena [alasan].\n\nHormat saya,\n(Nama Orang Tua)",
+    "contoh surat izin": "Contoh surat izin singkat:\n[Kota], [Tanggal]\nAnak: [Nama] Kelas: [Kelas]\nMohon izin karena [alasan].\nHormat saya,\n(Nama Orang Tua)",
+
+    # Rekap Absensi
+    "rekap kehadiran": "Saat ini chatbot belum terhubung ke sistem absensi. Untuk melihat rekap kehadiran, silakan hubungi wali kelas atau bagian TU.",
+    "lihat absensi": "Absensi lengkap dapat dicek melalui wali kelas atau Tata Usaha.",
+
     #Motivasi dan Kata-Kata Positif
     "beri saya motivasi belajar": "Jangan takut gagal, karena setiap kesalahan adalah bagian dari proses menuju sukses!",
     "kata kata semangat": "Semangat! Setiap langkah kecil hari ini adalah investasi besar untuk masa depanmu 💪",
