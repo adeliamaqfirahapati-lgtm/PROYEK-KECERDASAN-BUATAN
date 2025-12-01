@@ -167,6 +167,26 @@ knowledge_base = {
     "kegiatan apa saja di kampus": "Ada seminar, workshop, UKM, lomba, pelatihan soft skill, dan kegiatan sosial.",
     "jadwal kegiatan kampus": "Biasanya diumumkan melalui website kampus, grup mahasiswa, atau media sosial resmi.",
 
+        # === Manajemen Komunikasi Kelas ===
+
+    # Pengumuman Resmi
+    "pengumuman kelas": "Pengumuman resmi kelas: Harap memperhatikan setiap informasi terbaru dari wali kelas atau dosen melalui grup resmi.",
+    "ada pengumuman": "Pengumuman terbaru: Tidak ada pengumuman khusus saat ini. Jika ada perubahan, akan diinformasikan kembali.",
+    "pengumuman penting": "Saat ini belum ada pengumuman penting. Silakan cek secara berkala ya!",
+
+    # Informasi Darurat / Perubahan Jadwal
+    "perubahan jadwal": "Ada perubahan jadwal? Jika jadwal berubah mendadak, informasi biasanya disampaikan melalui grup kelas atau wali kelas.",
+    "jadwal mendadak berubah": "Jika ada perubahan mendadak, mohon cek grup kelas karena pengumuman darurat biasanya diberikan di sana.",
+    "info darurat": "Informasi darurat akan disampaikan melalui pengumuman resmi kelas. Harap selalu pantau grup kelas ya!",
+    "kelas libur": "Jika kelas libur mendadak, informasi akan diberikan langsung oleh dosen atau wali kelas melalui grup.",
+    "dosen tidak masuk": "Jika dosen tidak masuk, biasanya akan diumumkan melalui grup kelas beberapa menit sebelum jam pelajaran dimulai.",
+    
+    # Rekap Kegiatan Mingguan
+    "rekap kegiatan": "Rekap kegiatan minggu ini: 1) Kehadiran normal, 2) Tidak ada tugas baru, 3) Tidak ada perubahan jadwal. Rekap akan diperbarui setiap akhir pekan.",
+    "laporan mingguan": "Laporan mingguan: Semua kegiatan berjalan sesuai jadwal. Tidak ada agenda tambahan untuk minggu ini.",
+    "kegiatan minggu ini": "Kegiatan minggu ini berjalan lancar tanpa perubahan jadwal. Jika ada pembaruan, nanti akan diinformasikan.",
+    "rekap mingguan": "Rekap Mingguan: Perkuliahan berjalan stabil, tugas sesuai jadwal, dan tidak ada perubahan besar.",
+
 }
 
 # === FUNGSI UNTUK MENEMUKAN JAWABAN TERDEKAT ===
