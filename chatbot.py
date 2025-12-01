@@ -11,6 +11,16 @@ knowledge_base = {
     "apa itu kecerdasan buatan": "Kecerdasan Buatan (AI) adalah cabang ilmu komputer yang berfokus pada pembuatan sistem yang bisa berpikir dan belajar seperti manusia.",
     "apa fungsi chatbot": "Chatbot digunakan untuk menjawab pertanyaan atau membantu pengguna secara otomatis menggunakan AI.",
     
+    # Informasi Dasar Kelas PTIK C 2024
+    "info ptik c": "PTIK C 2024 adalah kelas dengan 37 mahasiswa dan memiliki struktur organisasi kelas yang lengkap.",
+    "ptik c berapa orang": "Jumlah mahasiswa PTIK C 2024 adalah 37 orang.",
+    "jumlah mahasiswa ptik c": "Kelas PTIK C 2024 terdiri dari 37 mahasiswa.",
+    "pengurus ptik c": "Ketua Tingkat: Shofiyah Rosyadah\nSekretaris 1: Adelia Maqfira Hapati\nSekretaris 2: Alfira Resky Pratiwi\nBendahara 1: Islatul Adha\nBendahara 2: Adelia Rahmadani Tahir",
+    "ketua tingkat ptik c": "Ketua tingkat PTIK C 2024 adalah Shofiyah Rosyadah.",
+    "sekretaris ptik c": "Sekretaris PTIK C 2024: Adelia Maqfira Hapati (Sekretaris 1) dan Alfira Resky Pratiwi (Sekretaris 2).",
+    "bendahara ptik c": "Bendahara PTIK C 2024: Islatul Adha (Bendahara 1) dan Adelia Rahmadani Tahir (Bendahara 2).",
+    "media sosial ptik c": "Media sosial kelas PTIK C 2024 ada di Instagram: https://www.instagram.com/ptikc_24/",
+    
     #Keamanan Komputer
     "apa itu kemanan komputer": "Keamanan Komputer merupakan bidang yang berfokus pada perlindungan sistem dan data dari ancaman, serangan, serta penyalahgunaan.",
     "siapa dosen pengampu keamanan komputer": "Fadhlirrahman Baso, S. Pd., M, Pd.",
